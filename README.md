@@ -1,7 +1,7 @@
 <h1 align="center">MEDITAZONE TEAM</h1>
 <br>
 <p align="center">
-  <img src="https://www.imghippo.com/images/1701356639.jpg" alt="" border="0" width="500" height="500">
+  <img src="https://www.imghippo.com/images/1701356639.jpg" alt="" border="0" width="400" height="400">
 </p>
 <br>
 <h2 align="center">Bangkit Academy 2023 Product Based Capstone Project</h2>
