@@ -1,7 +1,7 @@
 <h1 align="center">MEDITAZONE TEAM</h1>
 <br>
 <p align="center">
-  <img src="">
+  <img src="https://www.imghippo.com/images/1701356639.jpg" alt="" border="0">
 </p>
 <br>
 <h2 align="center">Bangkit Academy 2023 Product Based Capstone Project</h2>
@@ -23,5 +23,6 @@ Yoo guys! We are from **CH2-PS084**. We consist of 7 people and here is a list o
 | Rudy Wijaya | A254BSY2018 | Mobile Development | Universitas Mercu Buana |
 
 <br>
+
 ## Theme 📖
 Human Healthcare and Living Wellbeings
