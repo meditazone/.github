@@ -21,5 +21,5 @@ Yoo guys! We are from **CH2-PS084**. We consist of 7 people and here is a list o
 Human Healthcare and Living Wellbeings
 
 ## Thechnical Details 
-### Human Healthcare and Living Wellbeings
+### Meditazone Android Aplications
 
