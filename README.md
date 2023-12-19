@@ -1,15 +1,8 @@
-<h1 align="center">MEDITAZONE TEAM</h1>
-<br>
-<p align="center">
-  <img src="https://www.imghippo.com/images/1701356639.jpg" alt="" border="0" width="400" height="400">
-</p>
-<br>
-<h2 align="center">Bangkit Academy 2023 Product Based Capstone Project</h2>
-<h3 align="center">Created With ❤️ By CH2-PS084 Team</h3>
 
-<br>
+## Meditazone 👋
 
-## Introduction 👋
+Meditazone is a complete platform for your mental health needs. This project was inspired by the number of generation Z in Indonesia who have mental health issues, such as anxiety, stress, and depression. We took the initiative to create a mobile application that can help each individual to recognize the type of mental disorders they experience and how to overcome and manage them. We plan to create an innovative way to detect mental disorders, find suitable meditation and the best way to overcome them. We use machine learning, cloud computing, and mobile development to realize this product.
+
 Yoo guys! We are from **CH2-PS084**. We consist of 7 people and here is a list of our team members:
 
 |  Name | Student ID | Learning Path | University |
@@ -26,3 +19,7 @@ Yoo guys! We are from **CH2-PS084**. We consist of 7 people and here is a list o
 
 ## Theme 📖
 Human Healthcare and Living Wellbeings
+
+## Thechnical Details 
+### Human Healthcare and Living Wellbeings
+
