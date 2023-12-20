@@ -1,8 +1,9 @@
 
-## Meditazone 👋
+## MeditaZone APP
 
 Meditazone is a complete platform for your mental health needs. This project was inspired by the number of generation Z in Indonesia who have mental health issues, such as anxiety, stress, and depression. We took the initiative to create a mobile application that can help each individual to recognize the type of mental disorders they experience and how to overcome and manage them. We plan to create an innovative way to detect mental disorders, find suitable meditation and the best way to overcome them. We use machine learning, cloud computing, and mobile development to realize this product.
 
+## Team
 We are from **CH2-PS084**. We consist of 7 people and here is a list of our team members:
 
 |  Name | Student ID | Learning Path | University |
@@ -36,11 +37,10 @@ We have made a RestAPI server for our Meditazone app using ExpressJS for our mai
 
 The backend of for cloud computing is implemented using Google Cloud Platform. We use Cloud Run, Cloud Build, Google Cloud Storage, and Google Cloud SQL.
 
-**API Documentation :** COMING SOON!!!
+**API Documentation :** https://documenter.getpostman.com/view/30136709/2s9Ykq5eyN
 
 **Cloud Architecture**
-COMING SOON!!!
-<!-- ![Cloud Architecture](/profile/resource/cloud_architecture.png) -->
+![Cloud Architecture](/profile/resource/cc_archi.png)
 
 **Database Structure**
 
