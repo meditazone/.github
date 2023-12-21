@@ -40,7 +40,7 @@ The backend of for cloud computing is implemented using Google Cloud Platform. W
 **API Documentation :** https://documenter.getpostman.com/view/30136709/2s9Ykq5eyN
 
 **Cloud Architecture**
-![Cloud Architecture](/profile/resource/cc_archi.png)
+![Cloud Architecture](/profile/resource/cloud_archi.png)
 
 **Database Structure**
 
