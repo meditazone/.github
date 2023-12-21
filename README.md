@@ -1,5 +1,6 @@
 
 ## MeditaZone APP
+![](/profile/resource/bg-github.png)
 
 Meditazone is a complete platform for your mental health needs. This project was inspired by the number of generation Z in Indonesia who have mental health issues, such as anxiety, stress, and depression. We took the initiative to create a mobile application that can help each individual to recognize the type of mental disorders they experience and how to overcome and manage them. We plan to create an innovative way to detect mental disorders, find suitable meditation and the best way to overcome them. We use machine learning, cloud computing, and mobile development to realize this product.
 
