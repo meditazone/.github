@@ -27,6 +27,8 @@ Human Healthcare and Living Wellbeings
 Mobile applications are created starting from UI/UX design and a little UX research, then implementing the design results using native Kotlin Android by utilizing supporting libraries such as Retrofit to interact with APIs. 
 Meditazone is an application created to help users meditate. This application is built with Kotlin programming language with Jetpack Compose library. In addition, this application has several features including login / registration, displaying all meditation data, playing meditation audio and directing to the Website to view articles.
 
+**APK Demo :** https://shorturl.at/diJ49
+
 #### 1. [MEDITAZONE-MD](https://github.com/meditazone/MEDITAZONE-MD) (main Mobile Devlopment)
 
 **Flow Android**
