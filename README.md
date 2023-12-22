@@ -36,7 +36,7 @@ Meditazone is an application created to help users meditate. This application is
 
 We have made a RestAPI server for our Meditazone app using ExpressJS for our main server and Flask for machine learning model deployment. We deploy our backend services using Cloud Run, with the CI/CD pipeline using Cloud Build. We also utilize Google Cloud Storage for file storage, and Cloud SQL for our database server. We also successfully use cloud logging to debug our application.
 
-The backend of for cloud computing is implemented using Google Cloud Platform. We use Cloud Run, Cloud Build, Google Cloud Storage, and Google Cloud SQL.
+The backend of cloud computing is implemented using the Google Cloud Platform. We use Cloud Run, Cloud Build, Google Cloud Storage, and Google Cloud SQL.
 
 **API Documentation :** https://documenter.getpostman.com/view/30136709/2s9Ykq5eyN
 
